@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/hernandez-and-sons-roofing-roof-installation-scotc/sitemap.xml
